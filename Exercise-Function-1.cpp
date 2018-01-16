@@ -12,10 +12,8 @@ return 0;
 void masuk_tak()
 {
 	char ans,c;
-	int hits;
 	cout<<endl<<"Dia shoot masuk tak? (answer y-yes atau n-tidak"<<endl;
 	
-	cin>>hits;
 	cin>>c;
 	
 	if(c!='y' and c!='Y')
